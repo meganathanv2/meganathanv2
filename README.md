@@ -33,16 +33,16 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/meganathan-v-2b210725a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" />
   </a>
   <a href="https://www.codechef.com/users/meganathanv" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Code_chef_logo.png" alt="CodeChef" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codechef.svg" alt="CodeChef" width="40" style="filter: invert(100%)" />
   </a>
   <a href="https://www.hackerrank.com/meganathan_v2021" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="40" />
   </a>
   <a href="https://leetcode.com/meganathanv2005" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" />
   </a>
 </p>
 
